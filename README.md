@@ -77,19 +77,20 @@
 + [ ] :fire: 연습문제
 
 - Chapter 4 조건문과 반복문
-+ [ ] 1. 조건문 - if, switch / 136
-+ [ ] 1.1 if문 / 136
-+ [ ] 1.2 if-else문 / 140
-+ [ ] 1.3 if-else if문 / 141
-+ [ ] 1.4 중첩 if문 / 144
-+ [ ] 1.5 switch문 / 146
-+ [ ] 2. 반복문 - for, while, do-while / 156
-+ [ ] 2.1 for문 / 156
-+ [ ] 2.2 while문 / 167
-+ [ ] 2.3 do-while문 / 173
-+ [ ] 2.4 break문 / 175
-+ [ ] 2.5 continue문 / 176
-+ [ ] 2.6 이름 붙은 반복문 / 178
++ [x] 1. 조건문 - if, switch / 136
++ [x] 1.1 if문 / 136
++ [x] 1.2 if-else문 / 140
++ [x] 1.3 if-else if문 / 141
++ [x] 1.4 중첩 if문 / 144
++ [x] 1.5 switch문 / 146
++ [x] 2. 반복문 - for, while, do-while / 156
++ [x] 2.1 for문 / 156
++ [x] 2.2 while문 / 167
++ [x] 2.3 do-while문 / 173
++ [x] 2.4 break문 / 175
++ [x] 2.5 continue문 / 176
++ [x] 2.6 이름 붙은 반복문 / 178
++ [ ] :fire: 연습문제
 
 - Chapter 5 배열(Array)
 + [ ] 1. 배열(array) / 182
