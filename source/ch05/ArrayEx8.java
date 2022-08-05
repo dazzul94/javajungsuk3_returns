@@ -1,5 +1,6 @@
 package source.ch05;
 
+// 로또번호 생성 예제
 public class ArrayEx8 {
     public static void main(String[] args) {
         int[] ball = new int[45];
