@@ -10,6 +10,7 @@ public class MultiArrEx4 {
                 {"integer", "정수"}       // words[2][0], words[2][1]
         };
 
+
         Scanner scanner = new Scanner(System.in);
 
         for(int i = 0; i < words.length; i++) {
