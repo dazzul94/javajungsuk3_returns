@@ -167,12 +167,12 @@
 + [x] 2.3 오버로딩 vs. 오버라이딩 / 329
 + [x] 2.4 super / 330
 + [x] 2.5 super() - 조상 클래스의 생성자 / 332
-+ [ ] 3. package와 import / 336
-+ [ ] 3.1 패키지(package) / 336
-+ [ ] 3.2 패키지의 선언 / 337
-+ [ ] 3.3 import문 / 340
-+ [ ] 3.4 import문의 선언 / 340
-+ [ ] 3.5 static import문 / 342
++ [x] 3. package와 import / 336
++ [x] 3.1 패키지(package) / 336
++ [x] 3.2 패키지의 선언 / 337
++ [x] 3.3 import문 / 340
++ [x] 3.4 import문의 선언 / 340
++ [x] 3.5 static import문 / 342
 + [ ] 4. 제어자(modifier) / 344
 + [ ] 4.1 제어자란? / 344
 + [ ] 4.2 static - 클래스의, 공통적인 / 344
