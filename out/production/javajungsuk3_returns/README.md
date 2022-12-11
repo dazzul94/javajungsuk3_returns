@@ -153,6 +153,7 @@
 + [x] 6.2 명시적 초기화(explicit initialization) / 301
 + [x] 6.3 초기화 블럭(initialization block) / 302
 + [x] 6.4 멤버변수의 초기화 시기와 순서 / 304
++ [ ] :fire: 연습문제
 
 - Chapter 7 객체지향 프로그래밍 II
 + [x] 1. 상속(inheritance) / 310
@@ -173,13 +174,13 @@
 + [x] 3.3 import문 / 340
 + [x] 3.4 import문의 선언 / 340
 + [x] 3.5 static import문 / 342
-+ [ ] 4. 제어자(modifier) / 344
-+ [ ] 4.1 제어자란? / 344
-+ [ ] 4.2 static - 클래스의, 공통적인 / 344
-+ [ ] 4.3 final - 마지막의, 변경될 수 없는 / 345
-+ [ ] 4.4 abstract - 추상의, 미완성의 / 347
-+ [ ] 4.5 접근 제어자(access modifier) / 348
-+ [ ] 4.6 제어자(modifier)의 조합 / 353
++ [x] 4. 제어자(modifier) / 344
++ [x] 4.1 제어자란? / 344
++ [x] 4.2 static - 클래스의, 공통적인 / 344
++ [x] 4.3 final - 마지막의, 변경될 수 없는 / 345
++ [x] 4.4 abstract - 추상의, 미완성의 / 347
++ [x] 4.5 접근 제어자(access modifier) / 348
++ [x] 4.6 제어자(modifier)의 조합 / 353
 + [ ] 5. 다형성(polymorphism) / 354
 + [ ] 5.1 다형성이란? / 354
 + [ ] 5.2 참조변수의 형변환 / 357
@@ -207,6 +208,7 @@
 + [ ] 8.3 내부 클래스의 선언 / 404
 + [ ] 8.4 내부 클래스의 제어자와 접근성 / 405
 + [ ] 8.5 익명 클래스(anonymous class) / 410
++ [ ] :fire: 연습문제
 
 - Chapter 8 예외처리(Exception Handling)
 + [ ] 1. 예외처리(exception handling) / 414
@@ -222,6 +224,7 @@
 + [ ] 1.10 사용자정의 예외 만들기 / 439
 + [ ] 1.11 예외 되던지기(exception re-throwing) / 442
 + [ ] 1.12 연결된 예외(chained exception) / 444
++ [ ] :fire: 연습문제
 
 - Chapter 9 java.lang패키지와 유용한 클래스
 + [ ] 1. java.lang패키지 / 450
@@ -238,11 +241,11 @@
 + [ ] 2.5 java.util.StringTokenizer클래스 / 514
 + [ ] 2.6 java.math.BigInteger클래스 / 518
 + [ ] 2.7 java.math.BigDecimal클래스 / 521
++ [ ] :fire: 연습문제
 
 - Chapter 10 날짜와 시간 & 형식화
 + [ ] 1. 날짜와 시간 / 528
 + [ ] 1.1 Calendar와 Date / 528
-
 + [ ] 2. 형식화 클래스 / 540
 + [ ] 2.1 DecimalFormat / 540
 + [ ] 2.2 SimpleDateFormat / 544
@@ -256,6 +259,7 @@
 + [ ] 3.5 TemporalAdjusters / 565
 + [ ] 3.6 Period와 Duration / 567
 + [ ] 3.7 파싱과 포맷 / 572
++ [ ] :fire: 연습문제
 
 - Chapter 11 컬렉션 프레임웍
 + [ ] 1. 컬렉션 프레임웍(Collection Framework) / 578
@@ -273,6 +277,7 @@
 + [ ] 1.12 Properties / 658
 + [ ] 1.13 Collections / 664
 + [ ] 1.14 컬렉션 클래스 정리 & 요약 / 667
++ [ ] :fire: 연습문제
 
 - Chapter 12 지네릭스, 열거형, 애너테이션
 + [ ] 1. 지네릭스(Generics) / 670
@@ -289,12 +294,12 @@
 + [ ] 2.2 열거형의 정의와 사용 / 692
 + [ ] 2.3 열거형에 멤버 추가하기 / 695
 + [ ] 2.4 열거형의 이해 / 698
-
 + [ ] 3. 애너테이션(annotation) / 702
 + [ ] 3.1 애너테이션이란? / 702
 + [ ] 3.2 표준 애너테이션 / 703
 + [ ] 3.3 메타 애너테이션 / 711
 + [ ] 3.4 애너테이션 타입 정의하기 / 715
++ [ ] :fire: 연습문제
 
 - Chapter 13 쓰레드(Thread)
 + [ ] 1. 프로세스와 쓰레드 / 722
@@ -311,6 +316,7 @@
 + [ ] 9.3 Lock과 Condition을 이용한 동기화 / 779
 + [ ] 9.4 volatile / 786
 + [ ] 9.5 fork & join 프레임웍 / 788
++ [ ] :fire: 연습문제
 
 - Chapter 14 람다와 스트림
 + [ ] 1. 람다식 / 794
@@ -329,6 +335,7 @@
 + [ ] 2.6 collect() / 846
 + [ ] 2.7 Collector구현하기 / 862
 + [ ] 2.8 스트림의 변환 / 864
++ [ ] :fire: 연습문제
 
 - Chapter 15 입출력(I/O)
 + [ ] 1. 자바에서의 입출력 / 868
@@ -365,6 +372,7 @@
 + [ ] 7.2 ObjectInputStream과 ObjectOutputStream / 935
 + [ ] 7.3 직렬화가 가능한 클래스 만들기 - Serializable, transient / 937
 + [ ] 7.4 직렬화가능한 클래스의 버전관리 / 943
++ [ ] :fire: 연습문제
 
 - Chapter 16 네트워킹(Networking)
 + [ ] 1. 네트워킹(Networking) / 946
@@ -377,3 +385,4 @@
 + [ ] 2.1 TCP와 UDP / 959
 + [ ] 2.2 TCP소켓 프로그래밍 / 960
 + [ ] 2.3 UDP소켓 프로그래밍 / 978
++ [ ] :fire: 연습문제
