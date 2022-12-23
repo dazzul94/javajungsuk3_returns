@@ -227,7 +227,7 @@
 + [ ] :fire: 연습문제
 
 - Chapter 9 java.lang패키지와 유용한 클래스
-+ [ ] 1. java.lang패키지 / 450
++ [x] 1. java.lang패키지 / 450
 + [ ] 1.1 Object클래스 / 450
 + [ ] 1.2 String클래스 / 464
 + [ ] 1.3 StringBuffer클래스와 StringBuilder클래스 / 477
