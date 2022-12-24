@@ -231,7 +231,7 @@
 + [x] 1.1 Object클래스 / 450
 + [x] 1.2 String클래스 / 464
 + [x] 1.3 StringBuffer클래스와 StringBuilder클래스 / 477
-+ [ ] 1.4 Math클래스 / 483
++ [x] 1.4 Math클래스 / 483
 + [ ] 1.5 래퍼(wrapper) 클래스 / 490
 + [ ] 2. 유용한 클래스 / 496
 + [ ] 2.1 java.util.Objects클래스 / 496
