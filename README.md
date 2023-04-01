@@ -233,9 +233,9 @@
 + [x] 1.3 StringBuffer클래스와 StringBuilder클래스 / 477
 + [x] 1.4 Math클래스 / 483
 + [x] 1.5 래퍼(wrapper) 클래스 / 490
-+ [ ] 2. 유용한 클래스 / 496
-+ [ ] 2.1 java.util.Objects클래스 / 496
-+ [ ] 2.2 java.util.Random클래스 / 500
++ [x] 2. 유용한 클래스 / 496
++ [x] 2.1 java.util.Objects클래스 / 496
++ [x] 2.2 java.util.Random클래스 / 500
 + [ ] 2.3 정규식(Regular Expression) - java.util.regex패키지 / 505
 + [ ] 2.4 java.util.Scanner클래스 / 510
 + [ ] 2.5 java.util.StringTokenizer클래스 / 514
