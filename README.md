@@ -236,11 +236,11 @@
 + [x] 2. 유용한 클래스 / 496
 + [x] 2.1 java.util.Objects클래스 / 496
 + [x] 2.2 java.util.Random클래스 / 500
-+ [ ] 2.3 정규식(Regular Expression) - java.util.regex패키지 / 505
-+ [ ] 2.4 java.util.Scanner클래스 / 510
-+ [ ] 2.5 java.util.StringTokenizer클래스 / 514
-+ [ ] 2.6 java.math.BigInteger클래스 / 518
-+ [ ] 2.7 java.math.BigDecimal클래스 / 521
++ [x] 2.3 정규식(Regular Expression) - java.util.regex패키지 / 505
++ [x] 2.4 java.util.Scanner클래스 / 510
++ [x] 2.5 java.util.StringTokenizer클래스 / 514
++ [x] 2.6 java.math.BigInteger클래스 / 518
++ [x] 2.7 java.math.BigDecimal클래스 / 521
 + [ ] :fire: 연습문제
 
 - Chapter 10 날짜와 시간 & 형식화
