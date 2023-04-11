@@ -245,7 +245,7 @@
 
 - Chapter 10 날짜와 시간 & 형식화
 + [x] 1. 날짜와 시간 / 528
-+ [ ] 1.1 Calendar와 Date / 528
++ [x] 1.1 Calendar와 Date / 528
 + [ ] 2. 형식화 클래스 / 540
 + [ ] 2.1 DecimalFormat / 540
 + [ ] 2.2 SimpleDateFormat / 544
